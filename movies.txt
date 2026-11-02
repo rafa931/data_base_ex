@@ -1,2 +1,2 @@
 Se desea crear una base de datos para almacenar informacion sobre peliculas, en las que se desea conocer datos como 
-el titulo, la fecha de estreno, director/s, actor y la puntuacion de dichas peliculas de IMDB.
+el titulo, la fecha de estreno, director/s, actor/s y la puntuacion de dichas peliculas de IMDB.
